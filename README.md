@@ -6,6 +6,6 @@
 
 - Report: https://docs.google.com/presentation/d/1Z2FeBTGgrHPGa3itXlFSteobj6htqV8uhTxdKl9b00Y/edit?usp=sharing 
 
-- DataToken NFT: 0x2A411D2E5206385B494C782B50b40A6b6Ed40fb6.
+- did=did:op:8e688326e2fd3f4871f0026de175abb970fe959d5a1b5125a9b5bb952ceebc90, and datatoken.address=0xa1896aD471Ea7387Fc1785c13fD22EC346CC9fC5
 
 - Slides link: https://docs.google.com/presentation/d/1Z2FeBTGgrHPGa3itXlFSteobj6htqV8uhTxdKl9b00Y/edit?usp=sharing
